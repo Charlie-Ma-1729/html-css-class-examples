@@ -1,3 +1,34 @@
 h1{
     color: red;
 }
+
+h2{
+    font-size: 30px;
+}
+
+h3{
+    background-color: aqua;
+}
+
+li{
+    text-decoration: underline;
+}
+
+th{
+    font-family: "微軟正黑體";
+}
+
+td{
+    font-family: "標楷體";
+}
+
+img.hun{
+    height: 100px;
+    width: 100px;   
+}
+
+img.mpb{
+    margin: 700px 500px 300px 100px;
+    padding: 50px;
+    border: 100px;
+}
