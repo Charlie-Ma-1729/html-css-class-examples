@@ -1,0 +1,51 @@
+#name{
+    margin: 0 25% 0 25%;/*使區塊置中*/
+    width: 50%;/*使區塊置中*/
+    font-size: 64px;/*字體大小*/
+    background-color: #DDDDDD;/*背景顏色*/
+    border-radius: 20px;/*邊框圓角*/
+    box-shadow: 20px 30px 20px black;/*物件陰影*/
+}
+
+h1.name{
+    text-align: center;/*文字置中*/
+}
+
+img{
+    margin: 0 25% 0 25%;/*使圖片置中*/
+    width: 50%;/*使圖片置中*/
+}
+
+#description{
+    margin : 200px 20% 0 20%;/*使區塊置中*/
+    width: 60%;/*使區塊置中*/
+}
+
+ul.description{
+    font-size: 36px;/*字體大小*/
+}
+
+#other{
+    margin : 20px 20% 20px 20%;/*使區塊置中*/
+    width: 60%;/*使區塊置中*/
+    height: 700px;/*區塊高度*/
+}
+
+iframe{
+    width: 100%;/*物件寬度*/
+    height: inherit;/*物件高度*/
+}
+
+h1.other{
+    text-align: center;/*文字置中*/
+    font-size: 48px;/*字體大小*/
+}
+
+p{
+    line-height: 48px;/*行高*/
+    font-size: 24px;/*字體大小*/
+    margin: 30px 10% 30px 10%;/*使區塊置中*/
+    font-family: 標楷體;/*改變自體*/
+    font-weight: bold;/*粗體*/
+    text-align: center;/*文字置中*/
+}

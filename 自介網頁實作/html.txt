@@ -1,0 +1,75 @@
+<!DOCTYPE HTML>
+<html>
+    <head>
+        <meta charset="utf-8" />
+        <title>蔡英文的自我介紹網頁</title>
+        <!-- 網頁標題 -->
+        <link rel="stylesheet" href="main.css" />
+    </head>
+    <body>
+        <div id="name">
+            <h1 class="name">蔡英文</h1>
+            <img src=https://images.chinatimes.com/newsphoto/2019-12-19/900/B15A00_P_03_02.jpg />
+            <!-- img的src屬性裡面可貼上個人圖片網址 -->
+        </div>
+        <div id="description">
+                <ul class="description">
+                <!-- 項目清單 -->
+                    <li>興趣:
+                        <ul>
+                            <li>不詳</li>
+                        </ul>
+                </li>
+                <li>專長:
+                    <ul>
+                        <li>不詳</li>
+                    </ul>
+                </li>
+                <li>學歷:
+                    <ul>
+                        <li>臺北市私立雙連幼稚園</li>
+                        <li>臺北市中山區長安國民小學</li>
+                        <li>臺北市中山區吉林國民小學</li>
+                        <li>臺北市立北安國民中學</li>
+                        <li>臺北市立中山女子高級中學</li>
+                        <li>國立臺灣大學法學院法律學系</li>
+                        <li>美國康乃爾大學法學碩士</li>
+                        <li>英國倫敦政治經濟學院法學博士</li>
+                    </ul>
+                </li>
+                <li>歷任職位:
+                    <ul>
+                        <li>國立政治大學法學院法律學系副教授</li>
+                        <li>國立政治大學法學院法律學系教授</li>
+                        <li>東吳大學法律學研究所博士班、碩士班專任教授</li>
+                        <li>國立政治大學商學院國際經營與貿易學系教授</li>
+                        <li>經濟部貿易調查委員會委員</li>
+                        <li>行政院公平交易委員會委員</li>
+                        <li>內政部著作權委員會委員</li>
+                        <li>行政院大陸委員會諮詢委員會委員</li>
+                        <li>中華民國總統府國家安全會議諮詢委員</li>
+                        <li>陸委會主委</li>
+                        <li>民主進步黨不分區立法委員</li>
+                        <li>行政院副院長</li>
+                        <li>民主進步黨黨主席</li>
+                        <li>中華民國總統</li>
+                    </ul>
+                </li>
+            </ul>
+        </div>
+        <div id="other">
+            <h1 class="other">新冠肺炎:台灣模式</h1>
+            <iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Ftsaiingwen%2Fvideos%2F173503507378160%2F&show_text=1&width=560" width="560" height="528" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media" allowFullScreen="true"></iframe>
+            <!-- iframe是影片嵌入，在facebook或youtube獲取公開影片的嵌入碼並貼上 -->
+        </div>
+        <h1 class="other" style="font-family: 標楷體;font-weight: bold">2020就職演說</h1>
+        <p>今天我站在這裡，以無比感恩的心情，再次承擔台灣人民交付給我的責任。<br><br>
+            這是中華民國史上，最特別的總統就職典禮。它特別的地方，不在於典禮的規模，也不在於參與的人數，而在於，我們都知道，這一路走來有多麼不容易。<br><br>
+            我要感謝台灣人民，是你們讓這麼不容易的事，在台灣發生。<br><br>
+            我要特別謝謝一些人，他們在過去這四個月的防疫期間，很少被人提及。我要謝謝每一位在防疫初期，在藥房門口排隊的台灣人民。謝謝你們的耐心，以及謝謝你們對政府的信任。是你們讓全世界看到，台灣，即使在最不安的時刻，也能保持公民的美德。<br><br>
+            我也要謝謝那些居家檢疫、居家隔離的人。你們忍受生活的不便，為的是保護他人的健康。謝謝你們，展現人性中最善良的一面，成就台灣防疫的成功。<br><br>
+            國家的光榮感，生死與共的共同體，這一段記憶，將會存在我們每一個人心中。團結的感覺，就是這個樣子。<br><br>
+            我們今天現場，有許多各國使節代表，而且我相信，世界上一定有許多國家，也都在關心台灣。<br><br>
+            我想藉著這個機會告訴你們，你們看到的國家，有一群善良而堅韌的人民。這一群人民，無論在多麼艱難的環境中，依然能靠著我們的民主、我們的團結，和我們對彼此的責任感，克服挑戰、度過難關，讓台灣在世界上屹立不搖。</p>
+    </body>
+</html>
